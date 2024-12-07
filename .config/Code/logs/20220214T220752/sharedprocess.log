@@ -1,0 +1,18 @@
+[2022-02-14 22:08:09.292] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-14 22:08:10.925] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-02-14 22:08:13.321] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2022-02-14 22:08:13.323] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211027T122207'
+[2022-02-14 22:08:14.878] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/aisha/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.4
+[2022-02-14 22:08:17.980] [sharedprocess] [info] Extracted extension to /home/aisha/.vscode/extensions/.7d2256e7-9649-40a2-aa5d-ddd67dbc1656: ritwickdey.liveserver
+[2022-02-14 22:08:18.020] [sharedprocess] [info] Renamed to /home/aisha/.vscode/extensions/ritwickdey.liveserver-5.7.4
+[2022-02-14 22:08:18.024] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-02-14 22:08:18.283] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-02-14 22:08:33.331] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2022-02-14 22:08:33.332] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2022-02-14 22:08:33.332] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder 3a6960b964327f0e3882ce18fcebd07ed191b316.
+[2022-02-14 22:08:33.333] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder 6cba118ac49a1b88332f312a8f67186f7f3c1643.
+[2022-02-14 22:08:33.334] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder 7f6ab5485bbc008386c4386d08766667e155244e.
+[2022-02-14 22:08:33.334] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder 83bd43bc519d15e50c4272c6cf5c1479df196a4d.
+[2022-02-14 22:08:33.335] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder c13f1abb110fc756f9b3a6f16670df9cd9d4cf63.
+[2022-02-14 22:08:33.335] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder e7d7e9a9348e6a8cc8c03f877d39cb72e5dfb1ff.
+[2022-02-14 22:08:43.330] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

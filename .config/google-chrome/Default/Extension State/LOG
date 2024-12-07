@@ -1,0 +1,14 @@
+2022/03/10-14:19:59.591 3687 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2022/03/10-14:19:59.591 3687 Recovering log #172
+2022/03/10-14:20:01.958 3687 Reusing old log /home/aisha/.config/google-chrome/Default/Extension State/000172.log 
+2022/03/10-14:25:06.017 3688 Level-0 table #174: started
+2022/03/10-14:25:06.169 3688 Level-0 table #174: 2194277 bytes OK
+2022/03/10-14:25:06.205 3688 Delete type=0 #172
+2022/03/10-14:25:06.206 3688 Compacting 4@0 + 0@1 files
+2022/03/10-14:25:06.380 3688 Generated table #175@0: 1 keys, 2833 bytes
+2022/03/10-14:25:06.381 3688 Compacted 4@0 + 0@1 files => 2833 bytes
+2022/03/10-14:25:06.499 3688 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/03/10-14:25:06.500 3688 Delete type=2 #166
+2022/03/10-14:25:06.500 3688 Delete type=2 #169
+2022/03/10-14:25:06.500 3688 Delete type=2 #170
+2022/03/10-14:25:06.500 3688 Delete type=2 #174

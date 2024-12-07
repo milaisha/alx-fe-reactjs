@@ -1,0 +1,29 @@
+[2022-03-08 16:55:29.943] [renderer1] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/aisha/Desktop/fashion)
+[2022-03-08 16:56:00.618] [renderer1] [error] Error: File not found
+    at handleSetInputError (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:112112)
+    at async h.setInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:111787)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:26829)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:25202)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:24828)
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2576:16600
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2724:65373
+[2022-03-08 16:56:06.320] [renderer1] [error] spawn git ENOENT
+[2022-03-08 16:56:36.825] [renderer1] [error] Error: File not found
+    at handleSetInputError (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:112112)
+    at async h.setInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:111787)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:26829)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:25202)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:24828)
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2576:16600
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2724:65373
+[2022-03-08 17:00:53.697] [renderer1] [error] Error: File not found
+    at handleSetInputError (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:112112)
+    at async h.setInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:111787)
+    at async i.doSetInput (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:26829)
+    at async i.doOpenEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:25202)
+    at async i.openEditor (vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2376:24828)
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2576:16600
+    at async vscode-file://vscode-app/snap/code/89/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2724:65373
+[2022-03-08 17:05:49.385] [renderer1] [warning] [File Watcher (parcel)] Watcher restarts because watched path got created again (path: /home/aisha/Desktop/fashion)
+[2022-03-08 17:22:51.334] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-08 17:22:56.991] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW

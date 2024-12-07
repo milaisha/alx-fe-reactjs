@@ -1,0 +1,6 @@
+2022/03/10-14:19:52.211 3 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/10-14:19:52.214 3 Recovering log #1298
+2022/03/10-14:19:52.416 3 Reusing old log /home/aisha/.config/google-chrome/Default/Local Storage/leveldb/001298.log 
+2022/03/10-14:30:05.447 5 Level-0 table #1302: started
+2022/03/10-14:30:05.615 5 Level-0 table #1302: 22437 bytes OK
+2022/03/10-14:30:05.692 5 Delete type=0 #1298

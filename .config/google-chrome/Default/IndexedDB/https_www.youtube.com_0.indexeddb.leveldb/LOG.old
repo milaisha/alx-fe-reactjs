@@ -1,0 +1,30 @@
+2022/03/10-09:20:16.514 731 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/10-09:20:16.515 731 Recovering log #692
+2022/03/10-09:20:16.592 731 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000692.log 
+2022/03/10-10:34:11.567 10c3 Level-0 table #697: started
+2022/03/10-10:34:11.698 10c3 Level-0 table #697: 1111204 bytes OK
+2022/03/10-10:34:11.829 10c3 Delete type=0 #692
+2022/03/10-10:35:17.514 10c3 Compacting 1@1 + 1@2 files
+2022/03/10-10:35:17.654 10c3 Generated table #698@1: 882 keys, 72198 bytes
+2022/03/10-10:35:17.654 10c3 Compacted 1@1 + 1@2 files => 72198 bytes
+2022/03/10-10:35:17.728 10c3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/10-10:35:17.728 10c3 Delete type=2 #694
+2022/03/10-10:35:17.728 10c3 Delete type=2 #697
+2022/03/10-12:22:52.189 1a7d Level-0 table #700: started
+2022/03/10-12:22:52.354 1a7d Level-0 table #700: 1170741 bytes OK
+2022/03/10-12:22:52.465 1a7d Delete type=0 #696
+2022/03/10-12:26:37.492 1be9 Compacting 1@1 + 1@2 files
+2022/03/10-12:26:37.675 1be9 Generated table #701@1: 1016 keys, 62419 bytes
+2022/03/10-12:26:37.675 1be9 Compacted 1@1 + 1@2 files => 62419 bytes
+2022/03/10-12:26:37.765 1be9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/10-12:26:37.765 1be9 Delete type=2 #700
+2022/03/10-12:26:37.765 1be9 Delete type=2 #698
+2022/03/10-13:54:36.295 3122 Level-0 table #703: started
+2022/03/10-13:54:36.404 3122 Level-0 table #703: 1071683 bytes OK
+2022/03/10-13:54:36.478 3122 Delete type=0 #699
+2022/03/10-13:59:47.844 30ba Compacting 1@1 + 1@2 files
+2022/03/10-13:59:47.910 30ba Generated table #704@1: 1406 keys, 75926 bytes
+2022/03/10-13:59:47.910 30ba Compacted 1@1 + 1@2 files => 75926 bytes
+2022/03/10-13:59:47.958 30ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/10-13:59:47.958 30ba Delete type=2 #703
+2022/03/10-13:59:47.959 30ba Delete type=2 #701

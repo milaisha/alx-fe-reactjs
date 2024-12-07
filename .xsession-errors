@@ -1,0 +1,161 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/aisha/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=om_KE.UTF-8
+dbus-update-activation-environment: setting LC_NAME=om_KE.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=om_KE.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/aisha
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=aisha
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/aisha/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/aisha
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/aisha
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=om_KE.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=om_KE.UTF-8
+dbus-update-activation-environment: setting USER=aisha
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=om_KE.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=om_KE.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/aisha/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=om_KE.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:17:00.544: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 09:17:00.545: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 09:17:00.545: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 09:17:01.579: Existing monitor config (/home/aisha/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cjs-Message: 09:17:08.324: Profiler is disabled. Not setting up signals.
+Clutter-Message: 09:17:08.852: Sync method: PRESENTATION TIME
+
+(nm-applet:1481): libnotify-WARNING **: 09:17:09.925: Failed to connect to proxy
+
+(nm-applet:1481): nm-applet-WARNING **: 09:17:09.929: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.Notifications” on object at path /org/freedesktop/Notifications
+Cjs-Message: 09:17:12.048: JS LOG: About to start Cinnamon
+cinnamon-session[1117]: WARNING: t+12.57458s: Detected that screensaver has appeared on the bus
+Cjs-Message: 09:17:14.277: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 2100 ms
+Cjs-Message: 09:17:14.408: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 09:17:14.736: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+** Message: 09:17:14.903: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 09:17:15.938: JS LOG: [LookingGlass/info] loaded at Thu Mar 10 2022 09:17:15 GMT+0300 (East Africa Time)
+Cjs-Message: 09:17:15.938: JS LOG: Cinnamon started at Thu Mar 10 2022 09:17:15 GMT+0300 (East Africa Time)
+Cjs-Message: 09:17:16.007: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 09:17:16.008: JS LOG: [LookingGlass/info] NaNms
+Cjs-Message: 09:17:16.008: JS LOG: [LookingGlass/info] SearchProviderManager started in 2 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 09:17:16.350: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 73 ms
+Cjs-Message: 09:17:16.412: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 62 ms
+Cjs-Message: 09:17:16.474: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 09:17:16.479: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 11 ms
+Cjs-Message: 09:17:16.534: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 09:17:16.540: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 61 ms
+Cjs-Message: 09:17:16.656: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 81 ms
+Cjs-Message: 09:17:16.794: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 09:17:16.807: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 151 ms
+St-Message: 09:17:16.807: cogl npot texture sizes SUPPORTED
+Cjs-Message: 09:17:16.898: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 91 ms
+Cjs-Message: 09:17:16.912: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 14 ms
+Cjs-Message: 09:17:16.922: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 10 ms
+Cjs-Message: 09:17:17.022: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 100 ms
+Cinnamon warning: Log level 16: cinnamon tray: icon app window is gone
+Cjs-Message: 09:17:17.122: JS LOG: [LookingGlass/info] Adding systray: unknown (24x24px)
+Cjs-Message: 09:17:17.124: JS LOG: [LookingGlass/info] Resized unknown with normalized size (24x24px)
+Cinnamon warning: Log level 16: cinnamon tray: icon app window is gone
+Cjs-Message: 09:17:17.222: JS LOG: [LookingGlass/info] Adding systray: unknown (24x24px)
+Cjs-Message: 09:17:17.223: JS LOG: [LookingGlass/info] Resized unknown with normalized size (24x24px)
+Cjs-Message: 09:17:17.294: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 272 ms
+Cinnamon warning: Log level 16: cinnamon tray: icon app window is gone
+Cjs-Message: 09:17:17.303: JS LOG: [LookingGlass/info] Adding systray: unknown (24x24px)
+Cjs-Message: 09:17:17.304: JS LOG: [LookingGlass/info] Resized unknown with normalized size (24x24px)
+Cinnamon warning: Log level 16: cinnamon tray: icon app window is gone
+Cjs-Message: 09:17:17.307: JS LOG: [LookingGlass/info] Adding systray: unknown (24x24px)
+Cjs-Message: 09:17:17.308: JS LOG: [LookingGlass/info] Resized unknown with normalized size (24x24px)
+Cjs-Message: 09:17:17.330: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 36 ms
+Cjs-Message: 09:17:17.412: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+Cjs-Message: 09:17:17.491: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 161 ms
+Cjs-Message: 09:17:17.700: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 209 ms
+Cjs-Message: 09:17:17.702: JS LOG: [LookingGlass/info] AppletManager started in 1759 ms
+Cjs-Message: 09:17:17.707: JS LOG: [LookingGlass/info] Cinnamon took 5658 ms to start
+
+** (csd-power:1300): CRITICAL **: 09:17:17.774: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 09:17:17.788: JS LOG: Unknown network device type, is 14
+Cjs-Message: 09:17:17.859: JS LOG: Unknown network device type, is 30
+cinnamon-session[1117]: WARNING: t+22.57669s: Detected that screensaver has left the bus
+Nemo-Share-Message: 09:17:23.856: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 09:17:32.869: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.78/org/x/StatusIcon/Icon)
+Cjs-Message: 09:17:50.814: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.81/org/x/StatusIcon/Icon)
+[1794:1794:0310/091906.683224:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1748:1748:0310/091945.792537:ERROR:network_service_instance_impl.cc(333)] Network service crashed, restarting service.
+[1748:1748:0310/091949.876323:ERROR:password_sync_bridge.cc(442)] Passwords datatype error was encountered: Failed to load entries from password store. Encryption service failure.
+[1748:2030:0310/092011.500751:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from /home/aisha/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb,Corruption: missing start of fragmented record(1)
+[1748:2030:0310/092011.500826:ERROR:indexed_db_factory_impl.cc(713)] Got corruption for { origin: chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen, nonce: <null> }, missing start of fragmented record
+[1748:2030:0310/092011.591400:ERROR:indexed_db_factory_impl.cc(847)] IndexedDB recovering from a corrupted (and deleted) database.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1748:1781:0310/092742.759893:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[1748:1781:0310/092821.990587:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[1748:1781:0310/092924.534352:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[1748:1781:0310/093138.378939:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[1748:1781:0310/093527.772092:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+cinnamon-session[1117]: WARNING: t+1117.32495s: Detected that screensaver has appeared on the bus
+[1748:1781:0310/094214.341810:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+cinnamon-session[1117]: WARNING: t+1942.71338s: Detected that screensaver has left the bus
+[1748:1781:0310/095137.176866:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+cinnamon-session[1117]: WARNING: t+3419.74923s: Detected that screensaver has appeared on the bus
+cinnamon-session[1117]: WARNING: t+4019.04604s: Detected that screensaver has left the bus
+[1748:6234:0310/115339.222818:ERROR:database.cc(1674)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[1961:1972:0310/115553.794401:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[1961:1972:0310/115553.794487:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[1961:1972:0310/115846.893342:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/115846.893431:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/115846.893607:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/115846.893663:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120212.323895:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/120212.324587:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/120212.370289:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120212.370436:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120238.097717:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[1961:1972:0310/120238.097792:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[1961:1972:0310/120322.781466:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1961:1972:0310/120322.924201:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1961:1972:0310/120400.605665:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/120400.605978:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/120400.606178:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120400.606304:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120408.487947:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120408.488163:ERROR:socket_manager.cc(128)] Failed to resolve address for ientp.alipay.com., errorcode: -105
+[1961:1972:0310/120408.488313:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/120408.488364:ERROR:socket_manager.cc(128)] Failed to resolve address for cdn10.ebuckler.com., errorcode: -105
+[1961:1972:0310/121419.474713:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1961:1972:0310/121613.174766:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1961:1972:0310/121613.174982:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -200
+[1961:1972:0310/121630.220338:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1961:1972:0310/123827.973256:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1961:1972:0310/124240.148228:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[1961:1972:0310/124240.148364:ERROR:socket_manager.cc(128)] Failed to resolve address for stun.services.mozilla.com., errorcode: -105
+[13942:13942:0310/141955.112958:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[13899:13899:0310/142004.777224:ERROR:password_sync_bridge.cc(442)] Passwords datatype error was encountered: Failed to load entries from password store. Encryption service failure.

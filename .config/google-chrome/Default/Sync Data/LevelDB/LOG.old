@@ -1,0 +1,30 @@
+2022/03/10-09:19:09.524 72d Reusing MANIFEST /home/aisha/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/03/10-09:19:09.525 72d Recovering log #3
+2022/03/10-09:19:09.630 72d Reusing old log /home/aisha/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2022/03/10-09:20:12.093 72f Level-0 table #5: started
+2022/03/10-09:20:12.173 72f Level-0 table #5: 124761 bytes OK
+2022/03/10-09:20:12.240 72f Delete type=0 #3
+2022/03/10-12:02:52.675 18eb Level-0 table #7: started
+2022/03/10-12:02:52.856 18eb Level-0 table #7: 141541 bytes OK
+2022/03/10-12:02:53.046 18eb Delete type=0 #4
+2022/03/10-12:10:37.557 1d57 Level-0 table #9: started
+2022/03/10-12:10:37.676 1d57 Level-0 table #9: 170924 bytes OK
+2022/03/10-12:10:37.718 1d57 Delete type=0 #6
+2022/03/10-12:15:50.230 1a7d Level-0 table #11: started
+2022/03/10-12:15:50.350 1a7d Level-0 table #11: 145836 bytes OK
+2022/03/10-12:15:50.424 1a7d Delete type=0 #8
+2022/03/10-12:21:37.574 1cfe Level-0 table #13: started
+2022/03/10-12:21:37.678 1cfe Level-0 table #13: 141033 bytes OK
+2022/03/10-12:21:37.757 1cfe Delete type=0 #10
+2022/03/10-12:38:47.932 2781 Level-0 table #15: started
+2022/03/10-12:38:48.016 2781 Level-0 table #15: 161739 bytes OK
+2022/03/10-12:38:48.095 2781 Delete type=0 #12
+2022/03/10-12:38:48.096 2781 Compacting 4@0 + 1@1 files
+2022/03/10-12:38:48.218 2781 Generated table #16@0: 38 keys, 9815 bytes
+2022/03/10-12:38:48.218 2781 Compacted 4@0 + 1@1 files => 9815 bytes
+2022/03/10-12:38:48.260 2781 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/10-12:38:48.261 2781 Delete type=2 #9
+2022/03/10-12:38:48.261 2781 Delete type=2 #15
+2022/03/10-12:38:48.261 2781 Delete type=2 #11
+2022/03/10-12:38:48.261 2781 Delete type=2 #13
+2022/03/10-12:38:48.261 2781 Delete type=2 #7

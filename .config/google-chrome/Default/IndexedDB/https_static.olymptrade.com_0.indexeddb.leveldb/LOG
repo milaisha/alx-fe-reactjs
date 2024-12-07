@@ -1,0 +1,6 @@
+2021/12/07-13:02:31.302 e3f Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_static.olymptrade.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-13:02:31.398 e3f Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_static.olymptrade.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-13:02:35.515 e41 Level-0 table #5: started
+2021/12/07-13:02:35.549 e41 Level-0 table #5: 1762 bytes OK
+2021/12/07-13:02:35.578 e41 Delete type=0 #3
+2021/12/07-13:02:35.578 e41 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

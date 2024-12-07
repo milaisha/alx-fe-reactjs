@@ -1,0 +1,9 @@
+2022/03/10-09:19:52.959 6f3 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/10-09:19:52.960 6f3 Recovering log #135
+2022/03/10-09:19:53.452 6f3 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000135.log 
+2022/03/10-09:20:03.978 6f3 Compacting 1@1 + 1@2 files
+2022/03/10-09:20:04.083 6f3 Generated table #138@1: 174 keys, 283341 bytes
+2022/03/10-09:20:04.083 6f3 Compacted 1@1 + 1@2 files => 283341 bytes
+2022/03/10-09:20:04.130 6f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/10-09:20:04.131 6f3 Delete type=2 #133
+2022/03/10-09:20:04.131 6f3 Delete type=2 #136

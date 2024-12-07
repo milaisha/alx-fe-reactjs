@@ -1,0 +1,6 @@
+2021/09/09-11:23:51.947 1791 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_276d9805eecf59b4cc8724dc3eacb7b3.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/09/09-11:23:52.117 1791 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_276d9805eecf59b4cc8724dc3eacb7b3.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/09-11:24:48.045 16ba Level-0 table #5: started
+2021/09/09-11:24:48.100 16ba Level-0 table #5: 480 bytes OK
+2021/09/09-11:24:48.149 16ba Delete type=0 #3
+2021/09/09-11:24:48.149 16ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

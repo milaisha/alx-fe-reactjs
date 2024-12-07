@@ -1,0 +1,6 @@
+2021/12/06-18:28:26.537 25fd Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.datacamp.com_0.indexeddb.leveldb since it was missing.
+2021/12/06-18:28:26.709 25fd Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.datacamp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/06-18:28:49.305 2697 Level-0 table #5: started
+2021/12/06-18:28:49.449 2697 Level-0 table #5: 5480 bytes OK
+2021/12/06-18:28:49.572 2697 Delete type=0 #3
+2021/12/06-18:28:49.572 2697 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

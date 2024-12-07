@@ -1,0 +1,14 @@
+[2022-02-15 12:59:52.015] [main] [info] update#setState idle
+[2022-02-15 12:59:52.443] [main] [info] ExtensionHostStarterWorker created
+[2022-02-15 12:59:55.122] [main] [error] vscode-file: Refused to load resource /usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+[2022-02-15 12:59:55.623] [main] [info] Starting extension host with pid 27119 (fork() took 14 ms).
+[2022-02-15 12:59:55.623] [main] [info] ExtensionHostStarterWorker.start() took 17 ms.
+[2022-02-15 13:00:02.002] [main] [info] Enabling inspect port on extension host with pid 27119.
+[2022-02-15 13:00:22.019] [main] [info] update#setState checking for updates
+[2022-02-15 13:00:22.023] [main] [info] update#setState idle
+[2022-02-15 14:00:22.158] [main] [info] update#setState checking for updates
+[2022-02-15 14:00:22.302] [main] [info] update#setState idle
+[2022-02-15 15:00:22.337] [main] [info] update#setState checking for updates
+[2022-02-15 15:00:22.485] [main] [info] update#setState idle
+[2022-02-15 16:00:22.530] [main] [info] update#setState checking for updates
+[2022-02-15 16:00:22.637] [main] [info] update#setState idle

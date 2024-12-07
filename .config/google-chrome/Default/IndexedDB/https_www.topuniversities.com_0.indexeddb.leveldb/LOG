@@ -1,0 +1,6 @@
+2021/10/22-15:07:55.266 3846 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb since it was missing.
+2021/10/22-15:07:55.431 3846 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/22-15:26:23.116 406d Level-0 table #5: started
+2021/10/22-15:26:23.172 406d Level-0 table #5: 1165 bytes OK
+2021/10/22-15:26:23.221 406d Delete type=0 #3
+2021/10/22-15:26:23.221 406d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

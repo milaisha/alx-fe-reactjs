@@ -1,0 +1,8 @@
+[2022-03-04 15:18:49.921] [sharedprocess] [info] Starting worker process with pid 4099 (type: fileWatcher, window: 1).
+[2022-03-04 15:20:08.696] [sharedprocess] [info] Getting Manifest... formulahendry.code-runner
+[2022-03-04 15:20:08.740] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-03-04 15:20:12.339] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/aisha/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-03-04 15:20:12.835] [sharedprocess] [info] Extracted extension to /home/aisha/.vscode/extensions/.903824d0-0e38-4fa4-81c9-6f061eca6ca0: formulahendry.code-runner
+[2022-03-04 15:20:12.912] [sharedprocess] [info] Renamed to /home/aisha/.vscode/extensions/formulahendry.code-runner-0.11.7
+[2022-03-04 15:20:12.919] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-03-04 15:20:12.925] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner

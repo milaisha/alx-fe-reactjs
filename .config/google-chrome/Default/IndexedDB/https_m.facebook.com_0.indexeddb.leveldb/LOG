@@ -1,0 +1,6 @@
+2021/11/27-13:58:51.517 6e9 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_m.facebook.com_0.indexeddb.leveldb since it was missing.
+2021/11/27-13:58:51.628 6e9 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_m.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-16:21:41.508 dc7 Level-0 table #5: started
+2021/11/27-16:21:41.563 dc7 Level-0 table #5: 844 bytes OK
+2021/11/27-16:21:41.600 dc7 Delete type=0 #3
+2021/11/27-16:21:41.600 dc7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

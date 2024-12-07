@@ -1,0 +1,26 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/aisha/Desktop/fashion
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973

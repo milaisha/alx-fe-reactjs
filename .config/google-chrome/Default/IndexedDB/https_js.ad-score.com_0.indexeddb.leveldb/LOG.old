@@ -1,0 +1,24 @@
+2021/11/12-11:48:43.410 153d Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/12-11:48:43.411 153d Recovering log #6
+2021/11/12-11:48:43.411 153d Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/000006.log 
+2021/11/12-11:48:43.730 1721 Level-0 table #10: started
+2021/11/12-11:48:43.808 1721 Level-0 table #10: 1033 bytes OK
+2021/11/12-11:48:43.887 1721 Delete type=0 #6
+2021/11/12-11:48:43.888 1721 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 103 : 1
+2021/11/12-11:48:43.888 1721 Compacting 1@0 + 1@1 files
+2021/11/12-11:48:43.965 1721 Generated table #11@0: 23 keys, 552 bytes
+2021/11/12-11:48:43.965 1721 Compacted 1@0 + 1@1 files => 552 bytes
+2021/11/12-11:48:44.031 1721 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/12-11:48:44.032 1721 Delete type=2 #10
+2021/11/12-11:48:44.032 1721 Manual compaction at level-0 from '\x00\x03\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 103 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/12-11:48:51.789 105b Level-0 table #13: started
+2021/11/12-11:48:51.881 105b Level-0 table #13: 516 bytes OK
+2021/11/12-11:48:51.921 105b Delete type=0 #9
+2021/11/12-11:48:51.921 105b Delete type=2 #7
+2021/11/12-11:48:51.921 105b Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 152 : 1
+2021/11/12-11:48:51.921 105b Compacting 1@0 + 1@1 files
+2021/11/12-11:48:51.982 105b Generated table #14@0: 23 keys, 548 bytes
+2021/11/12-11:48:51.982 105b Compacted 1@0 + 1@1 files => 548 bytes
+2021/11/12-11:48:52.020 105b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/12-11:48:52.020 105b Delete type=2 #13
+2021/11/12-11:48:52.021 105b Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 152 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

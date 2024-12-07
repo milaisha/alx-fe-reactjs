@@ -1,0 +1,36 @@
+2021/11/16-16:55:02.682 49e4 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/16-16:55:02.715 49e4 Recovering log #138
+2021/11/16-16:55:03.123 49e4 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000138.log 
+2021/11/16-16:56:12.281 49e4 Compacting 1@0 + 1@1 files
+2021/11/16-16:56:12.401 49e4 Generated table #141@0: 1916 keys, 40215 bytes
+2021/11/16-16:56:12.401 49e4 Compacted 1@0 + 1@1 files => 40215 bytes
+2021/11/16-16:56:12.444 49e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/16-16:56:12.445 49e4 Delete type=2 #139
+2021/11/16-16:56:12.445 49e4 Delete type=2 #137
+2021/11/16-16:57:46.950 49dc Level-0 table #143: started
+2021/11/16-16:57:47.060 49dc Level-0 table #143: 1363896 bytes OK
+2021/11/16-16:57:47.097 49dc Delete type=0 #138
+2021/11/16-17:06:19.141 4a77 Level-0 table #145: started
+2021/11/16-17:06:19.248 4a77 Level-0 table #145: 1013478 bytes OK
+2021/11/16-17:06:19.418 4a77 Delete type=0 #142
+2021/11/16-17:18:56.887 49dc Level-0 table #147: started
+2021/11/16-17:18:57.043 49dc Level-0 table #147: 686944 bytes OK
+2021/11/16-17:18:57.252 49dc Delete type=0 #144
+2021/11/16-17:18:57.253 49dc Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 90046 : 0
+2021/11/16-17:18:57.253 49dc Compacting 3@0 + 1@1 files
+2021/11/16-17:18:57.564 49dc Generated table #148@0: 2511 keys, 49439 bytes
+2021/11/16-17:18:57.564 49dc Compacted 3@0 + 1@1 files => 49439 bytes
+2021/11/16-17:18:57.649 49dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/16-17:18:57.649 49dc Delete type=2 #147
+2021/11/16-17:18:57.650 49dc Delete type=2 #141
+2021/11/16-17:18:57.650 49dc Delete type=2 #145
+2021/11/16-17:18:57.650 49dc Delete type=2 #143
+2021/11/16-17:18:57.652 4d5f Manual compaction at level-0 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 90046 : 0 .. (end); will stop at (end)
+2021/11/16-17:18:57.652 4d5f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 95528 : 1
+2021/11/16-17:18:57.652 4d5f Compacting 1@1 + 1@2 files
+2021/11/16-17:18:57.732 4d5f Generated table #149@1: 46 keys, 28618 bytes
+2021/11/16-17:18:57.732 4d5f Compacted 1@1 + 1@2 files => 28618 bytes
+2021/11/16-17:18:57.848 4d5f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/16-17:18:57.849 4d5f Delete type=2 #148
+2021/11/16-17:18:57.849 4d5f Delete type=2 #130
+2021/11/16-17:18:57.850 4d5f Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0a\x00p\x00o\x00s\x00t\x00s\x00.\x00b\x00y\x00I\x00d' @ 95528 : 1 .. (end); will stop at (end)

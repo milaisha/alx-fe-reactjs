@@ -1,0 +1,6 @@
+2021/11/03-19:41:27.526 4207 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.popsugar.com_0.indexeddb.leveldb since it was missing.
+2021/11/03-19:41:27.679 4207 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.popsugar.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/03-19:42:22.411 41b3 Level-0 table #5: started
+2021/11/03-19:42:22.466 41b3 Level-0 table #5: 35677 bytes OK
+2021/11/03-19:42:22.510 41b3 Delete type=0 #3
+2021/11/03-19:42:22.511 41b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+[2021-11-22 12:52:53.073] [exthost] [info] Extension host with pid 5908 started
+[2021-11-22 12:52:53.073] [exthost] [info] Skipping acquiring lock for /home/aisha/.config/Code/User/workspaceStorage/9ed2fcbcfca98fbefa51eeef9effa0df.
+[2021-11-22 12:52:53.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-22 12:52:53.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-22 12:52:54.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-22 12:52:54.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-22 12:52:54.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-22 12:52:54.751] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-11-22 12:52:57.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-22 12:52:57.418] [exthost] [info] Eager extensions activated
+[2021-11-22 12:52:57.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-22 12:52:57.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 00:03:58.191] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-23 00:03:59.314] [exthost] [info] Extension host with pid 5908 exiting with code 0

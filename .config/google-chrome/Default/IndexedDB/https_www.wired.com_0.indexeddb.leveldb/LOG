@@ -1,0 +1,6 @@
+2021/11/25-14:53:43.730 1204 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.wired.com_0.indexeddb.leveldb since it was missing.
+2021/11/25-14:53:43.983 1204 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.wired.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/25-14:58:23.991 1341 Level-0 table #5: started
+2021/11/25-14:58:24.057 1341 Level-0 table #5: 1034 bytes OK
+2021/11/25-14:58:24.111 1341 Delete type=0 #3
+2021/11/25-14:58:24.112 1341 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

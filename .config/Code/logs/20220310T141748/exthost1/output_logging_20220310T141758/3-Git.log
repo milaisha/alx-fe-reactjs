@@ -1,0 +1,16 @@
+[2022-03-10T11:18:01.410Z] Validating found git in: git
+[2022-03-10T11:18:01.705Z] Using git 2.25.1 from git
+[2022-03-10T11:18:07.508Z] > git rev-parse --git-dir [5651ms]
+[2022-03-10T11:18:07.562Z] Open repository: /home/aisha/Desktop/fashion
+[2022-03-10T11:18:08.541Z] > git ls-files --stage -- /home/aisha/Desktop/fashion/weather.html [95ms]
+[2022-03-10T11:18:08.766Z] > git symbolic-ref --short HEAD [4ms]
+[2022-03-10T11:18:08.879Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [104ms]
+[2022-03-10T11:18:08.908Z] > git remote --verbose [4ms]
+[2022-03-10T11:18:08.953Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [60ms]
+[2022-03-10T11:18:08.977Z] > git config --get commit.template [2ms]
+[2022-03-10T11:18:28.808Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-10T11:18:28.820Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [3ms]
+[2022-03-10T11:18:28.839Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-03-10T11:18:28.840Z] > git remote --verbose [3ms]
+[2022-03-10T11:18:28.857Z] > git config --get commit.template [2ms]
+[2022-03-10T11:18:28.899Z] > git ls-files --stage -- /home/aisha/Desktop/fashion/weather.html [2ms]

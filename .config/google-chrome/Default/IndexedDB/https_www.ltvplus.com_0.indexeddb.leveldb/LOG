@@ -1,0 +1,6 @@
+2021/10/25-22:46:39.442 ea5 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.ltvplus.com_0.indexeddb.leveldb since it was missing.
+2021/10/25-22:46:39.568 ea5 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.ltvplus.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/25-22:47:11.506 fbe Level-0 table #5: started
+2021/10/25-22:47:11.562 fbe Level-0 table #5: 819 bytes OK
+2021/10/25-22:47:11.601 fbe Delete type=0 #3
+2021/10/25-22:47:11.601 fbe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

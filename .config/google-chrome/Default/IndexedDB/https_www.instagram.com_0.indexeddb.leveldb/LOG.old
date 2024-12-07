@@ -1,0 +1,12 @@
+2021/11/09-15:13:09.321 1ede Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-15:13:09.322 1ede Recovering log #134
+2021/11/09-15:13:09.524 1ede Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000134.log 
+2021/11/09-15:14:50.392 1ede Compacting 1@0 + 1@1 files
+2021/11/09-15:14:50.558 1ede Generated table #137@0: 1281 keys, 48988 bytes
+2021/11/09-15:14:50.558 1ede Compacted 1@0 + 1@1 files => 48988 bytes
+2021/11/09-15:14:50.625 1ede compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/09-15:14:50.626 1ede Delete type=2 #133
+2021/11/09-15:14:50.626 1ede Delete type=2 #135
+2021/11/09-15:15:36.715 1ede Level-0 table #139: started
+2021/11/09-15:15:36.856 1ede Level-0 table #139: 1376432 bytes OK
+2021/11/09-15:15:36.972 1ede Delete type=0 #134

@@ -1,0 +1,28 @@
+2021/11/23-18:08:57.385 1d09 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/23-18:08:57.385 1d09 Recovering log #442
+2021/11/23-18:08:57.412 1d09 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000442.log 
+2021/11/23-18:10:05.508 1ce5 Level-0 table #453: started
+2021/11/23-18:10:05.620 1ce5 Level-0 table #453: 1521903 bytes OK
+2021/11/23-18:10:05.662 1ce5 Delete type=0 #442
+2021/11/23-18:10:05.664 1ce5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/23-18:10:05.665 1ce5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x03\x01)\x00k\x00=\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00J\x00a\x00d\x000\x00T\x00T\x008\x00i\x00H\x002\x008\x00.\x00O\x00/\x00c\x00k\x00=\x00/\x00a\x00m\x00=\x00;\x00s\x00y\x001\x00y' @ 649273 : 0
+2021/11/23-18:10:05.665 1ce5 Compacting 1@1 + 7@2 files
+2021/11/23-18:10:05.787 1ce5 Generated table #454@1: 2163 keys, 2128677 bytes
+2021/11/23-18:10:05.920 1ce5 Generated table #455@1: 2121 keys, 2123731 bytes
+2021/11/23-18:10:06.076 1ce5 Generated table #456@1: 2044 keys, 2120247 bytes
+2021/11/23-18:10:06.254 1ce5 Generated table #457@1: 1956 keys, 2119308 bytes
+2021/11/23-18:10:06.387 1ce5 Generated table #458@1: 1941 keys, 2120828 bytes
+2021/11/23-18:10:06.521 1ce5 Generated table #459@1: 2108 keys, 2121557 bytes
+2021/11/23-18:10:06.666 1ce5 Generated table #460@1: 1790 keys, 2119177 bytes
+2021/11/23-18:10:06.744 1ce5 Generated table #461@1: 14081 keys, 293710 bytes
+2021/11/23-18:10:06.744 1ce5 Compacted 1@1 + 7@2 files => 15147235 bytes
+2021/11/23-18:10:06.832 1ce5 compacted to: files[ 0 0 8 0 0 0 0 ]
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #446
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #448
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #445
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #453
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #449
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #450
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #444
+2021/11/23-18:10:06.833 1ce5 Delete type=2 #447
+2021/11/23-18:10:06.837 1ce5 Manual compaction at level-1 from '\x00\x03\x02\x03\x01)\x00k\x00=\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00J\x00a\x00d\x000\x00T\x00T\x008\x00i\x00H\x002\x008\x00.\x00O\x00/\x00c\x00k\x00=\x00/\x00a\x00m\x00=\x00;\x00s\x00y\x001\x00y' @ 649273 : 0 .. (end); will stop at (end)

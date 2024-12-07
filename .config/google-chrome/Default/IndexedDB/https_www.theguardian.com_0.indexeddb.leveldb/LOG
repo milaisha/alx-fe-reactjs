@@ -1,0 +1,6 @@
+2021/10/26-12:34:06.665 bc8 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.theguardian.com_0.indexeddb.leveldb since it was missing.
+2021/10/26-12:34:06.769 bc8 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_www.theguardian.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/26-12:56:42.386 14e0 Level-0 table #5: started
+2021/10/26-12:56:42.442 14e0 Level-0 table #5: 589627 bytes OK
+2021/10/26-12:56:42.479 14e0 Delete type=0 #3
+2021/10/26-12:56:42.480 14e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

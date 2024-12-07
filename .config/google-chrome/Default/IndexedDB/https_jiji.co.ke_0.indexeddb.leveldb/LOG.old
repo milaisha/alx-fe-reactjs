@@ -1,0 +1,6 @@
+2021/10/18-11:30:23.860 1725 Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_jiji.co.ke_0.indexeddb.leveldb since it was missing.
+2021/10/18-11:30:24.018 1725 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_jiji.co.ke_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/18-11:31:25.271 148f Level-0 table #5: started
+2021/10/18-11:31:25.338 148f Level-0 table #5: 31156 bytes OK
+2021/10/18-11:31:25.378 148f Delete type=0 #3
+2021/10/18-11:31:25.379 148f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

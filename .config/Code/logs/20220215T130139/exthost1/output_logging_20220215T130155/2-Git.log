@@ -1,0 +1,253 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/aisha/Desktop/fashion
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git check-ignore -v -z --stdin
+> git show --textconv :anim.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/anim.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :anim.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/anim.html
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :collection/mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/collection/mila.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ulandol.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/ulandol.html
+> git cat-file -s e0f7646f7c776c8d638bdc34e3f828e618da16ab
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :mystyle.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mystyle.css
+> git cat-file -s b9ff9f538341a8ca702a94ea1c28b86e96ebb5cc
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :mystyle.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mystyle.css
+> git cat-file -s b9ff9f538341a8ca702a94ea1c28b86e96ebb5cc
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :last.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/last.html
+> git cat-file -s e6ebce48a5e49b7cf411b24eb64c0ac74ee74015
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :last.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/last.html
+> git cat-file -s e6ebce48a5e49b7cf411b24eb64c0ac74ee74015
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :ulandol.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/ulandol.html
+> git config --get commit.template
+> git cat-file -s e0f7646f7c776c8d638bdc34e3f828e618da16ab
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv :ulandol.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/ulandol.html
+> git cat-file -s e0f7646f7c776c8d638bdc34e3f828e618da16ab
+> git show --textconv :last.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/last.html
+> git cat-file -s e6ebce48a5e49b7cf411b24eb64c0ac74ee74015
+> git show --textconv :style.css
+> git ls-files --stage -- /home/aisha/Desktop/fashion/style.css
+> git cat-file -s 5cde4007b9af1077222f2f514031590691e24d9d
+> git show --textconv :fshn.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fshn.html
+> git cat-file -s ed771e02dea578a7a0fd2c4d72549ca3c4e9d29b
+> git show --textconv :fashion.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/fashion.html
+> git cat-file -s 9abf3a6c54c2b5d97336533a62c282fefafa2973
+> git show --textconv HEAD:mila.html
+> git ls-tree -l HEAD -- /home/aisha/Desktop/fashion/mila.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html
+> git show --textconv :mila.html
+> git ls-files --stage -- /home/aisha/Desktop/fashion/mila.html

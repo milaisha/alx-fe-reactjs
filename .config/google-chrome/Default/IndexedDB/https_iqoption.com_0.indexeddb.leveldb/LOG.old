@@ -1,0 +1,6 @@
+2021/12/07-14:39:52.853 162f Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_iqoption.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-14:39:52.957 162f Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_iqoption.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-14:40:24.947 162f Level-0 table #5: started
+2021/12/07-14:40:25.002 162f Level-0 table #5: 6836 bytes OK
+2021/12/07-14:40:25.033 162f Delete type=0 #3
+2021/12/07-14:40:25.034 162f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

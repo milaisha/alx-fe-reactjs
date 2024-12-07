@@ -1,0 +1,29 @@
+.price{
+    margin-left: 50px;
+    color: red;
+}
+h1 {
+color: blue;
+}
+p {
+color: chartreuse;
+}
+img {
+  width: 300px;
+  height: 200px;
+}
+table {
+    width: 500%;
+  }
+  
+  th,caption {
+    text-align: left;
+  }
+  
+  table,th,td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 10px;
+  }

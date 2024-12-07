@@ -1,0 +1,6 @@
+2022/03/04-17:03:50.446 1e7a Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/https_nodejs.dev_0.indexeddb.leveldb since it was missing.
+2022/03/04-17:03:50.622 1e7a Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_nodejs.dev_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/04-17:05:51.774 1ea4 Level-0 table #5: started
+2022/03/04-17:05:51.840 1ea4 Level-0 table #5: 6033 bytes OK
+2022/03/04-17:05:51.889 1ea4 Delete type=0 #3
+2022/03/04-17:05:51.889 1ea4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

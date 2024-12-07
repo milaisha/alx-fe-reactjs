@@ -1,0 +1,108 @@
+{
+   "checksum": "70a43688e79eb612a8a44b33d3235f6b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13241005260727727",
+            "guid": "5780546e-7bf0-4415-9207-17b5d40cae32",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13241005260732604",
+            "guid": "e3bef5f5-b460-4680-bba1-acd23c134a2c",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13241005275023645",
+            "guid": "154cbc2e-9ac3-4425-b753-79f5b78fa247",
+            "id": "8",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13241005279909232",
+            "guid": "bd9d8097-133f-40a2-9e30-2ddee5545096",
+            "id": "9",
+            "name": "News",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13241005283055110",
+            "guid": "e3f26117-3586-4bb5-92f4-09ebb8e4da97",
+            "id": "10",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13241988970631020",
+            "guid": "09b7fadd-24e5-4574-8330-67f4197066dd",
+            "id": "11",
+            "name": "Social Media ",
+            "type": "url",
+            "url": "chrome-extension://chnacmlpiecdhgkdgeoipkmdbekengck/ntp2.html"
+         }, {
+            "children": [ {
+               "date_added": "13255564694290071",
+               "guid": "0e772cb0-c23a-485e-aa04-15b0f2ac3699",
+               "id": "13",
+               "name": "VMAM | Users | Login",
+               "type": "url",
+               "url": "https://vmam.unv.org/"
+            }, {
+               "date_added": "13255564860054917",
+               "guid": "2277caf2-e858-467a-83ab-81fd526d90da",
+               "id": "14",
+               "name": "NGO Jobs In Kenya - Career Point Kenya",
+               "type": "url",
+               "url": "https://www.careerpointkenya.co.ke/category/ngo-jobs-in-kenya/"
+            } ],
+            "date_added": "13255564733579541",
+            "date_modified": "13255564860054917",
+            "guid": "bd9c1264-7e54-49e1-a3b5-74c0f50fe36a",
+            "id": "12",
+            "name": "Application link",
+            "type": "folder"
+         } ],
+         "date_added": "13274980905814880",
+         "date_modified": "13241988970631020",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274980905814883",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13204878505102768",
+            "guid": "16bef482-369f-4e2c-9786-2d4678868223",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13204878643787109"
+            },
+            "name": "http://www.shabiki.com/",
+            "type": "url",
+            "url": "http://www.shabiki.com/"
+         } ],
+         "date_added": "13274980905814885",
+         "date_modified": "13204878505102768",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAZBMk19kFACGAZBMk19kFADIYChYIAhGGP5cz19kFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgGQTJNfZBQAhgGQTJNfZBQAyGAoWCAIRhj+XM9fZBQAYACEAAAAAAAAAACAASNiY75P3L3D1i9Ts9i8SACABKhhLMmlaS1BvMnZTeVAvRWlBZHVDbHlRPT0SrQIIDhKoAgocRXM4aXZ2Y1ZNQnV2R3M0REFLVnRJVEpvcGljPRKmAVo6QURxdEFad0ZuV05SSGVWYlRIMU50RmxSa004Y0s5RTRzcE1ON1UydnQ4MGdMbE9KTTFqR3FyMmFjWTBFeldzWHcvWUNkWFdTcU5ISjRZQUZtclNnd044c1I3TDZmSitpR0R6RVJEcUpobjdEVUhhcWJJTTAvdGRVY2xpSlN2ZDU5MkVXblAwT0RJcStlL2dCVklaVEs2WVpCc3lWOTQrd1RRPT0YACAAKAAw8ZrAkbH39AI4l+WW5PEuQK3jw5DeL0ocQTJWeVZmZkFjTVk3eGxMY0ptZ0VQWjk0Um5VPVofIh23SEE3c2J0dVFUZ05yWlBqQURacFhuY0piZm5jPWUAAAAAEqwCCAUSpwIKHE10L2JOTm9keUtya2JMRGFodklMY0ZuQ3czbz0SpgFaOkFEcXRBWndGbldOUkhlVmJUSDFOdEZsUmtNOGN6Q3c2OEFRMExBMmRBSGRGdGt3VHJ2eWYwUkN0R1pvdm1CK29FQlI3RmFoWVRJWER4a2tqVmZsVjlSdlpaRmNQa0dZbzA5SUlQbG0zWTNqcVhMazFQU0NIeW9wWVc1K0VqVG5KV2pDbVJOdStheUcwYVFaak43SUM5bG5JNnlaNHAzT0RoZz09GAAgACgAMJyem5Gx9/QCOKuZhfu0LUDP3sOQ3i9KHG9zanVLOGVMWjc0MHp2S3g5c3ZuWmNiajB5WT1aHiIcNFkxQ0ZIbnArT01Od2xNWW5zL21SS1FkN2MwPWWp6dyWEqwCCAYSpwIKHFJIVFYzZCtJaWZlTzJ1WnJKZkRNOVZ3anY4OD0SpgFaOkFEcXRBWndGbldOUkhlVmJUSDFOdEZsUmtNOGNLOUU0c3BNTjdVMnZ0ODBnTGxPSk0vMTFZb1ZaS2d3aDRmUS9va0xVNmpyOGdGUDNOQkVhcFlReGZEaDFGdU9sZ2dNK252VW1hM3pQVWYwK1Z1aktOMVR6VGorNElTdkEzK2w1RDBrR3VZcUt1YmpWODJBTlFCelRSQ0sxKzFTZXVZS2JhQT09GAAgAygDMI75uLC6qfYCONfH2cW7LkDun4j29C9KHGlUOGxBdHZvQVJ1QzUrelNHSkp1Q0l5cGxHZz1aHiIcaW00blY4SHAwK3V3STFvUUt5UVkzTVVDQWQwPWU4+TkzEq0BCAESqAEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaejM1N0VRaTdHS0loazhBOHRWdm1hcWNNU3JJQ1NRL1cxQVlDeThocDFnYTJsS1BkNjJnYkVsS1JuakZEa2FyaFI3dHVlLxgAIAAoADDw6o7Ggd7yAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAiIAZQAAAAASrQIICBKoAgoccGxqK2tyeEpwY00veEJsUE9WbFR1M2dsa0lZPRKmAVo6QURxdEFad0ZuV05SSGVWYlRIMU50RmxSa004Y0s5RTRzcE1ON1UydnQ4MGdMbE9KTTFJWlk2ei9jMkxUMU1WYnRwZnR5SVlMWVJIdW1Ud05ybzF4eW1WNUVKQkF0eURCL21nbGwwbzhia1pHaWRVSXBQZ2N4TUZ4VUltUWcyMm41VTdmaENhY29JTXR6QmtrNFdMSEVVbnVMdkhySndnZE9nPT0YACAEKAQwupyFycK59gI42MfZxbsuQK3zoP32L0ocYkZqdG1uUTNSTU1FbTRmalozcGpUV1ozL0FBPVofIh21T092N1ltUWRaUFJxeGVULzc1MmIycm5KWno4PWWLoIzREq0CCAwSqAIKHHhSTnNuL04wY01tU2YwUWJIYmNWSkFFanp6QT0SpgFaOkFEcXRBWndGbldOUkhlVmJUSDFOdEZsUmtNOGNLOUU0c3BNTjdVMnZ0ODBnTGxPSk0wN0NJV1c2QlJlMHh4cndUMnZBSC9ZUks0Z1JXcWJvYVA1U0VpOWJlNXV6aXhZTTFXM3h3cEJCZVNTU0xFVmxVaG8xQjNxS3NvYWUyczlpaTdnZnNtWU5jb0RBcTNFeTZyaHhJZlkxblc3VVgwZ29uUT09GAAgACgAMJyem5Gx9/QCOIyJj+TxLkDP3sOQ3i9KHFhQbzlMVnYyOEpvckZsTUQ3Zm9UL1JYSWIrOD1aHyId/Xlpd0kycFl6eEVlcjRlblFrc2RPaFRnNUtBMD1lAAAAABLFAQgDEsABChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWnlma1AzcExmNzVIdVZPSFBtNURUcjJUZWhNUTNaZGNqQWFlNFdBa3BZUWYzOERXZXM5M1EzYUlmZzY2RllFeEdLeng3Ly9wbHpPUUx1M25JbklhOVRJeG9oV1Z3PT0YACAAKAAw8OqOxoHe8gI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgIiAGUAAAAAEsUBCAISwAEKHHpEVkdycnRaTGRNKzRCVHliZytIQ09yV2d5bz0SZlo6QURxdEFaeXFiV3ZSWWlsR2l5OTFMbGhOd0NiT1FVTXUzb2pnNjA1K0VHTllwM3BpdHlUY2VhSWJ2UE9xb08vNGFxa2V2NTJxUSszV0JacHNQYTlvUUVqdUR1dHZHTExHdWc9PRgAIAAoADDw6o7Ggd7yAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aAiIAZQAAAAASrQIICRKoAgocWEViaFE2VnBsY0djSk1CdVhLOWhPRzg3eXJVPRKmAVo6QURxdEFad0ZuV05SSGVWYlRIMU50RmxSa004Y0s5RTRzcE1ON1UydnQ4MGdMbE9KTTdITXNKaVN5eG5OK1o1MmR2YmN3RU9NYStkMk96QzVFVHZ4QlNEQmlkVXJTWHk2WlhDTEo4c2Q4Y3RFbGdaMGQwRlpMUnBkZXJReHJGeHZncmcvMkJzNFdpOVpsQzZwQ2xiNjh6dCt0VkwxM0tONVRRPT0YACACKAIwnJ6bkbH39AI42MfZxbsuQM/ew5DeL0ocU0tyY1ByS0FYUkVXelFjczVTNkZjdEZYWVh3PVofIh3aYTJCemFiOGZtUWcrZnFRTmI4Yng5TU5ITjFZPWW3Ty2pEqwCCA0SpwIKHEJPd1MvOUhUSW9EaHJaR01TY2FNMDNxeUNFND0SpgFaOkFEcXRBWndGbldOUkhlVmJUSDFOdEZsUmtNOGNLOUU0c3BNTjdVMnZ0ODBnTGxPSk02WmNnc0tYeXdjTDNrNENpb0tlR0FlWEJqMmk5a01mTzNSbkE1a0RIWFZGSUVFanNkRHpaazJPQ1I5Uk9NS2tGc1A0SkkvRlNqQjdZT25QaE83SUI3QnRUZGZaQU92Ny9VUU5kZXhic0RoVktJK1Nwdz09GAAgACgAMJyem5Gx9/QCOJLWjOTxLkDP3sOQ3i9KHFF1MTJKQy9HaExjL3BLenZ0NUhQVXBDeDZWZz1aHiIcbktTbk1uc05hR0tsR0NCVkZOajZ6eXNnUlM0PWXabH2fEq0CCAsSqAIKHHV5Mis4QzdLN3ZITm9ONklkWGQ2SFZJS2t1ND0SpgFaOkFEcXRBWndGbldOUkhlVmJUSDFOdEZsUmtNOGNLOUU0c3BNTjdVMnZ0ODBnTGxPSk0zNDVvelQ1SVhiMG94SnJBR1pYUEJ6WXpNbTA0S3ZqbkxWUDNhUTdOK1VVK0xuT29iM2ZPMUJxekp6T0pEZVAzcGdkUTFyQk9iSnlzM1BwbEJybWtJcHhtV0I0SnJac1pHaW9Wc2xlaWltUzlOV0x2dz09GAAgACgAMPGawJGx9/QCOIih2Jq/LkCt48OQ3i9KHHJhRGE1ZTBjQ3ZkRWpGMkI2NlM4ek1kWEpOaz1aHyId9jZkbGtIMm5BcTFOTklmS21RbEhNVzdDMjZqND1lAAAAABKsAggHEqcCChxGMEdjd0ROdmpLREpYQmtGQzFJVkZkODRSTGs9EqYBWjpBRHF0QVp3Rm5XTlJIZVZiVEgxTnRGbFJrTThjSzlFNHNwTU43VTJ2dDgwZ0xsT0pNMnhTY2hQYlpsOFZ4K21RdVoxQWdSVUFhNTcvZzRreTZtMTN4ekE5MVJwL2JGT0RMU3FicWlRRGVXK3E1ZThrRTNyeDhEWFJnNUxBL3NSUCtjZUhmY2RJNGVzakNNVGJjZ1lNakhOeEJXVTlrdHZraXc9PRgAIAIoAjCcnpuRsff0AjjXx9nFuy5Az97DkN4vShxjcnJiTmR5dGdIWGx6dkdVRHpwbTA1ZEVEMUk9Wh4iHGt1anNiczdVSjRCc3d6dHRlRFdWQVljdUF2VT1lPWyFERKtAggKEqgCChxXL2hydjgrODRqWHBpYXA1UXlHTU1ZZEFsck09EqYBWjpBRHF0QVp3Rm5XTlJIZVZiVEgxTnRGbFJrTThjSzlFNHNwTU43VTJ2dDgwZ0xsT0pNOU53M0tiOWowN2VkR2pabnNQQy9LWngzMGxGOXNKWThST1RjVmFXMVBPRk5lYnN2RldqU2k1TGdkQmhQOFN0UVBLUDdKUS95ek5WaUJTVkUxSElmWVUydTJVVTFpckQyVHNwMU5rKzA3czZWSUVndXc9PRgAIAIoAjCcnpuRsff0AjjZx9nFuy5Az97DkN4vShxTQVJKN0d5VTZ1ZkdVZ3ZHT2YweklMOVQ1MjQ9Wh8iHe11U0tGbk8rckdnWlVxK2ttRTJOSVl6MzJSRU09ZcXPkAEYASDHmu+T9y8=",
+   "version": 1
+}

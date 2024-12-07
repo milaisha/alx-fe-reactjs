@@ -1,0 +1,566 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/aisha/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=om_KE.UTF-8
+dbus-update-activation-environment: setting LC_NAME=om_KE.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=om_KE.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/aisha
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=aisha
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/aisha/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/aisha
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/aisha
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=om_KE.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=om_KE.UTF-8
+dbus-update-activation-environment: setting USER=aisha
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=om_KE.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=om_KE.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/aisha/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=om_KE.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 10:40:32.428: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 10:40:32.428: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 10:40:32.428: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+** Message: 10:40:33.708: Existing monitor config (/home/aisha/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+Cjs-Message: 10:40:40.364: Profiler is disabled. Not setting up signals.
+Clutter-Message: 10:40:40.808: Sync method: PRESENTATION TIME
+
+(nm-applet:1527): libnotify-WARNING **: 10:40:42.182: Failed to connect to proxy
+
+(nm-applet:1527): nm-applet-WARNING **: 10:40:42.187: Failed to show notification: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.Notifications” on object at path /org/freedesktop/Notifications
+Cjs-Message: 10:40:44.187: JS LOG: About to start Cinnamon
+cinnamon-session[1107]: WARNING: t+12.89321s: Detected that screensaver has appeared on the bus
+Cjs-Message: 10:40:46.515: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 2214 ms
+Cjs-Message: 10:40:46.620: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 10:40:46.798: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+** Message: 10:40:48.033: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 10:40:48.435: JS LOG: [LookingGlass/info] loaded at Wed Mar 09 2022 10:40:48 GMT+0300 (East Africa Time)
+Cjs-Message: 10:40:48.435: JS LOG: Cinnamon started at Wed Mar 09 2022 10:40:48 GMT+0300 (East Africa Time)
+Cjs-Message: 10:40:48.657: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 10:40:48.658: JS LOG: [LookingGlass/info] NaNms
+Cjs-Message: 10:40:48.658: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 10:40:49.002: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 46 ms
+Cjs-Message: 10:40:49.080: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 77 ms
+Cjs-Message: 10:40:49.133: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 53 ms
+Cjs-Message: 10:40:49.140: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 10:40:49.144: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 11 ms
+Cjs-Message: 10:40:49.171: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 27 ms
+Cjs-Message: 10:40:49.209: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 10:40:49.267: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 96 ms
+St-Message: 10:40:49.285: cogl npot texture sizes SUPPORTED
+Cjs-Message: 10:40:49.297: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 30 ms
+Cjs-Message: 10:40:49.428: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 10:40:49.433: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 136 ms
+Cjs-Message: 10:40:49.460: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.54/org/x/StatusIcon/Icon)
+Cjs-Message: 10:40:49.527: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 94 ms
+Cjs-Message: 10:40:49.536: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 9 ms
+Cjs-Message: 10:40:49.582: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 46 ms
+Cjs-Message: 10:40:49.647: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 65 ms
+Cjs-Message: 10:40:49.750: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.54/org/x/StatusIcon/Icon)
+
+** (csd-power:1347): CRITICAL **: 10:40:49.767: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 10:40:49.785: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 138 ms
+Cjs-Message: 10:40:50.076: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 291 ms
+Cjs-Message: 10:40:50.077: JS LOG: [LookingGlass/info] AppletManager started in 1637 ms
+Cjs-Message: 10:40:50.082: JS LOG: [LookingGlass/info] Cinnamon took 5894 ms to start
+Cjs-Message: 10:40:50.134: JS LOG: Unknown network device type, is 14
+Cjs-Message: 10:40:50.178: JS LOG: Unknown network device type, is 30
+cinnamon-session[1107]: WARNING: t+22.89091s: Detected that screensaver has left the bus
+Nemo-Share-Message: 10:40:55.332: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 10:41:04.826: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.78/org/x/StatusIcon/Icon)
+[1813:1813:0309/104121.106396:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+Cjs-Message: 10:41:27.273: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.87/org/x/StatusIcon/Icon)
+[1758:1758:0309/104141.052954:ERROR:network_service_instance_impl.cc(333)] Network service crashed, restarting service.
+[1758:1758:0309/104146.028924:ERROR:password_sync_bridge.cc(442)] Passwords datatype error was encountered: Failed to load entries from password store. Encryption service failure.
+[1758:1758:0309/104152.536341:ERROR:extension_message_filter.cc(110)] EMF_INVALID_EXTENSION_ID_FOR_CONTENT_SCRIPT
+[1758:1758:0309/104152.536720:ERROR:extension_message_filter.cc(110)] EMF_INVALID_EXTENSION_ID_FOR_CONTENT_SCRIPT
+[1758:1758:0309/104152.536823:ERROR:extension_message_filter.cc(110)] EMF_INVALID_EXTENSION_ID_FOR_CONTENT_SCRIPT
+gio: zoommtg://zoom.us/join?action=join&confno=94260048126&pwd=a1Y0U2lPRDNORkdPcFR4U083RWZ1QT09&zc=64&confid=dXRpZD1VVElEX2FlYTY0ZTBmM2FhYzQxM2Q5MWMxN2MwZDMzNzBjYTRkJnVzcz1nNXN5LW94ZUlPb3FBczRsN1pwVW1TakZ6eUFCOXlhZWxYcnpoZ05DcmlVZjdfZk9uRkxhUTFub3dWVFJvYzVybjFzTkszY2tyTlFqYWdWMUVnLmFQbkJPWjNmQVNRdm9lbzgmdGlkPTlhODdjMGIwMTE3ODQ1Y2VhNTE0MWIxYWZhMGU2YTU0&browser=chrome: The specified location is not supported
+[1758:1861:0309/104219.943623:ERROR:persistent_memory_allocator.cc(848)] Corruption detected in shared-memory segment.
+gio: zoommtg://zoom.us/join?action=join&confno=94260048126&pwd=a1Y0U2lPRDNORkdPcFR4U083RWZ1QT09&zc=64&confid=dXRpZD1VVElEXzA4NjkzYzdjYTQ0YjRlN2NhNmI1Y2NhMDEyYzdjN2QzJnVzcz14VEdJcUluVFdDX05uSzNIbXJ5aGpocEtvOExkU0dmUjZoNUVtQV9OMWVZVzliNEc0NUNyV0VBTjlrQ3pPcXpNY3RIQVl0Q2kzS0diZGg5WGNnLlBmM1NJY2tHM2lpdWFaU0gmdGlkPTlhODdjMGIwMTE3ODQ1Y2VhNTE0MWIxYWZhMGU2YTU0&browser=chrome: The specified location is not supported
+gio: zoommtg://zoom.us/join?action=join&confno=93707640446&pwd=QTRCU2hLaFhoRmRHUkFsVG1EeUNWUT09&confid=dXRpZD1VVElEXzAyMzMyZGZiMjBlMjQ1NjU4ZmM1NmY2ODcwYmVmOThlJnVzcz1YS3hJOGhQb0NZTFpCcjEyTVo2MzVpc1pSZ09sZGh0NURucDRYM3pTY2VVLWR0TWZ6a01GbEhhRU1yaXJuVmlwdktJWWR5eHVEbHBOZXFFcGdnLk5oVUJYU3NOOFV3aG4yaTgmdGlkPTlhODdjMGIwMTE3ODQ1Y2VhNTE0MWIxYWZhMGU2YTU0&browser=chrome: The specified location is not supported
+[3020:17:0309/104814.068529:ERROR:webrtc_video_engine.cc(3472)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[3020:17:0309/104833.337978:ERROR:webrtc_video_engine.cc(3472)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[3020:16:0309/104838.726213:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/104838.726418:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/104838.727770:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/104838.728036:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105010.021220:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105010.034454:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105010.034646:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105010.035322:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.407825:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.408227:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.408403:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.408608:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.408802:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.415672:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.415935:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.416113:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.440029:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105025.440342:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.015871:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.028407:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.030222:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.030875:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.041476:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.439685:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.439997:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.440233:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.463758:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105035.464195:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105039.150555:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.298461:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.298853:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.352943:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.353266:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.371628:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.371954:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105053.389393:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105102.892892:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105102.893267:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105102.893520:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105102.893642:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105102.893770:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105103.399461:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105103.416467:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105103.416877:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.260230:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.260683:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.278098:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.278699:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.278978:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.378006:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.378326:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.385685:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.385973:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.422245:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.440223:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.440554:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.440816:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.458800:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.459661:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.475487:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.475782:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.510761:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.510908:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.510995:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.529587:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.529801:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.546988:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.547185:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.547335:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.584419:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.584732:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.601743:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.602062:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105107.620348:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 100 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.441254:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.458860:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.459133:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.477189:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.477619:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.603627:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.621526:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.622029:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.640445:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105110.641054:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105111.665383:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105111.666260:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105111.682702:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105111.683078:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105111.718659:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.073125:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.073487:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.073838:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.109744:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.110106:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.487167:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.487445:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.524333:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.524929:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.542576:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.761249:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.761672:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.762072:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.777848:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.797540:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.798116:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.798351:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.813761:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.813989:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.850333:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.850653:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.868663:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.868849:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.868970:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.886117:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.886433:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.922443:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.922903:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.923186:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.940441:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.940705:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.959543:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.960049:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105114.974496:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 100 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.536839:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.549248:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.549539:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.549746:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.551121:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.930655:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.931079:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.948811:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.949042:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105127.949184:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.184767:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.185026:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.203006:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.203341:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.220258:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.256143:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.256568:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.274811:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.275121:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.275318:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.292202:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.311055:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.346120:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.346318:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.364127:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.364422:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.382028:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.382242:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.382379:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.415093:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 100 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105128.418487:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105131.932063:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105131.932389:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105131.933688:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105131.933877:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105131.934785:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.212362:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.215206:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.215688:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.215889:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.216100:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.216735:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.216927:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.217683:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.217959:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.218108:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.398986:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.399670:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.415994:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.416297:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.434378:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.434764:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105134.453307:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105135.882185:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105135.915196:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105135.915497:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105135.917271:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105135.917429:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105136.106581:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105136.106963:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105136.107293:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105136.107951:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105136.165847:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.048891:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.049157:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.049469:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.049851:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.050101:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.843697:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.843920:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.844137:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.844271:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105137.844401:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105138.672608:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105138.753467:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105138.754003:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105138.754551:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105138.754953:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105139.766350:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105139.766670:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105139.766909:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105139.767184:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105139.767441:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105141.316149:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105141.334028:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105141.334244:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105141.370216:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105141.371286:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.646288:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.646822:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.647377:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.649768:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.651395:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.652144:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.653123:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.653935:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.654705:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105206.654936:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105207.205539:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105207.205988:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105207.232811:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105207.233073:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105207.233252:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105211.945954:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105211.946284:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105211.946561:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105211.963556:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105211.963950:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.213401:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.213745:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.214006:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.250397:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.250855:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.305630:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.340809:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.341352:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.341722:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105212.359400:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.216887:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.217141:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.217436:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.234664:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.235203:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.271173:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.271479:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.289844:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.290109:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105213.290293:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105214.459206:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105214.587152:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105214.587679:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105214.588108:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105214.589408:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.227852:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.228000:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.228154:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.228292:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.228416:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.229142:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.229313:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.229466:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.229800:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.229977:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.233756:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.233909:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.234833:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.235397:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.235751:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.738637:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.777699:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.778371:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.779318:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105215.781576:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105306.372481:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105306.372925:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105306.373253:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105306.373612:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105306.373976:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105325.449877:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105325.450119:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105325.450357:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105325.450533:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105325.450699:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105330.960763:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105330.961020:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105330.961758:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105330.961959:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105330.962501:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105338.983221:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105338.983576:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.003060:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.004046:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.022734:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.388792:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.408286:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.408777:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.428391:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105339.429365:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105342.355997:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105342.356353:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105342.356569:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105342.356796:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105342.357056:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105351.129372:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105351.129669:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105351.129947:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105351.130470:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105351.130657:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.039809:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040105:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040255:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040375:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040476:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040803:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040896:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.040982:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.041067:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.041156:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.098236:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.098734:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.118547:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.118901:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.119146:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.138335:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105353.138578:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105354.645540:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105354.646066:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105354.650590:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105354.650874:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105354.651322:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105357.645416:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105358.894520:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105359.136345:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.136970:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.137603:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.137854:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.138096:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.140745:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.140953:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.141068:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.141225:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.141341:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.141829:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.141947:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.142051:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.143156:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.145896:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.146102:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.146301:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105359.146460:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.243025:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.243271:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.243495:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.243645:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.243795:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.908761:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.909193:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.909539:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.909950:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.910185:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.922065:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.923151:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.923352:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.923785:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105400.923878:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105403.250853:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105403.251139:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105403.251397:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105403.251805:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105403.252046:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105411.434416:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105411.434784:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105411.454582:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105411.455016:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105411.455288:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105414.296450:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105414.297858:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105414.298432:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105414.299152:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105414.305738:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105417.173415:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105417.173819:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105417.174287:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105417.174598:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105418.450950:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/105418.451419:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105419.779220:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105419.779527:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105419.779795:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105419.800944:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105419.801277:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105420.061043:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105420.946407:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/105420.946620:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105426.498189:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105426.498496:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105426.498717:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105426.498844:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105426.498970:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105440.053834:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105440.054032:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105440.054274:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105440.054616:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105440.054852:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105503.853039:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105503.872820:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105503.873483:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105503.873805:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105503.892993:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105504.956614:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105504.957037:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105504.976537:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105504.976843:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.017620:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.018544:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.036797:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.037272:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.037693:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.057256:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.057933:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.097821:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.098225:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.111846:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.112150:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.152526:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.153119:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.153418:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.172190:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.172694:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.192291:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.192896:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.212091:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.212633:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105505.228241:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 100 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.300561:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.301378:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.301914:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.302229:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.303323:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.303884:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.304188:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.304854:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:16:0309/105506.305250:ERROR:stun_port.cc(308)] Port[2fb9400:0:1:0:local:Net[wlp2s0:192.168.0.x/24:Wifi:id=1]]: UDP send of 998 bytes to host 192.168.0.x:37806 (192.168.0.x:37806) failed with error 11
+[3020:17:0309/105559.748470:ERROR:webrtc_video_engine.cc(3472)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[3020:16:0309/105613.856566:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/105613.857057:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:16:0309/105613.859193:ERROR:dtls_transport.cc(120)] DtlsTransport in connected state has incomplete TLS information
+[3020:16:0309/105613.859592:ERROR:dtls_srtp_transport.cc(214)] No DTLS-SRTP selected crypto suite
+[3020:4:0309/110440.392838:ERROR:child_thread_impl.cc(339)] Crashing because hung
+cinnamon-session[1107]: WARNING: t+12703.55958s: Detected that screensaver has appeared on the bus
+** Message: 14:36:24.061: Existing monitor config (/home/aisha/.config/cinnamon-monitors.xml) not found during hotplug or laptop lid event. Looking for legacy configuration (monitors.xml)

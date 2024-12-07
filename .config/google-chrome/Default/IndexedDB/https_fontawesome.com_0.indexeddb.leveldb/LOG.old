@@ -1,0 +1,7 @@
+2022/03/04-13:42:30.933 1e26 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/04-13:42:30.933 1e26 Recovering log #3
+2022/03/04-13:42:31.022 1e26 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2022/03/04-13:42:53.978 1b6f Level-0 table #5: started
+2022/03/04-13:42:54.033 1b6f Level-0 table #5: 17546 bytes OK
+2022/03/04-13:42:54.081 1b6f Delete type=0 #3
+2022/03/04-13:42:54.082 1b6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

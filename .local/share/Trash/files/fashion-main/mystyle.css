@@ -1,0 +1,63 @@
+table, th, td  {
+    border: 1px solid black;
+  }
+  tr:hover {
+    color:rgb(139, 80, 80);
+  }
+  tr:nth-child(even){
+    background-color: #D6EEEE;
+  }
+  .price{
+    margin-left: 50px;
+    color: red;
+}
+ .product{
+    margin-left: 50px;
+    color: red;
+}
+h1 {
+color: red;
+}
+h2 {
+  color: blue;
+}
+p {
+  text-align: center;
+color: black;
+}
+img {
+  width: 300px;
+  height: 200px;
+}
+  th,caption {
+    text-align: left;
+  }
+  
+  table,th,td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 10px;
+  }
+  #continue {
+    text-align: center;
+    color: black;
+  }
+  .h1 {
+    color: red;
+    }
+    .h2 {
+      color: blue;
+    }
+  p.large {
+    font-size: 300%;
+  }
+    .centre {
+      text-align: center;
+      color: black;
+    }
+    p.centre{
+      text-align: center;
+      color: black;
+    }

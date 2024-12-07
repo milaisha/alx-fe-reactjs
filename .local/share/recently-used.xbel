@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/aisha/Downloads/VSCodeUserSetup-ia32-1.65.0.exe" added="2022-03-04T12:01:45Z" modified="2022-03-04T12:14:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-03-04T12:14:24Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2022-03-04T12:14:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/.cache/.fr-jJrmgk/.rsrc/1033/ICON/2.ico" added="2022-03-04T12:02:20Z" modified="2022-03-04T12:02:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;xviewer %u&apos;" modified="2022-03-04T12:02:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Downloads/node-v16.14.0-x86.msi" added="2022-03-04T12:13:43Z" modified="2022-03-04T13:59:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2022-03-04T13:59:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Downloads/node-v16.14.0-x86%20(5).msi" added="2022-03-04T14:05:59Z" modified="2022-03-04T14:05:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msi"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2022-03-04T14:05:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Downloads/node-v17.6.0-linux-x64.tar.xz" added="2022-03-04T14:10:04Z" modified="2022-03-04T14:10:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2022-03-04T14:10:04Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-03-04T14:10:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Downloads/node-v16.14.0-linux-x64.tar.xz" added="2022-03-04T14:12:03Z" modified="2022-03-08T13:25:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2022-03-08T13:25:31Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-03-08T13:25:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/my_project.zip" added="2022-03-08T13:28:15Z" modified="2022-03-08T13:28:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2022-03-08T13:28:15Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-03-08T13:28:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Downloads/fashion-main.zip" added="2022-03-08T13:37:49Z" modified="2022-03-08T14:02:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-03-08T14:02:55Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;file-roller %U&apos;" modified="2022-03-08T14:02:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Desktop/fashion-main/fashion/fashion.html" added="2022-03-08T14:01:27Z" modified="2022-03-08T14:01:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2022-03-08T14:01:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Desktop/fashion-main/fashion/weather.js" added="2022-03-08T14:01:40Z" modified="2022-03-08T14:01:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xed %U&apos;" modified="2022-03-08T14:01:40Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-03-08T14:01:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Desktop/fashion-main/fashion/weather.html" added="2022-03-08T14:01:54Z" modified="2022-03-08T14:01:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2022-03-08T14:01:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Desktop/fashion-main" added="2022-03-08T14:06:04Z" modified="2022-03-08T14:06:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;nemo %U&apos;" modified="2022-03-08T14:06:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aisha/Desktop/fashion" added="2022-03-08T14:06:16Z" modified="2022-03-08T14:06:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo-desktop" exec="&apos;nemo %U&apos;" modified="2022-03-08T14:06:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

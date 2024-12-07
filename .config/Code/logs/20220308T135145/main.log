@@ -1,0 +1,28 @@
+[2022-03-08 13:51:45.858] [main] [info] update#setState idle
+[2022-03-08 13:51:46.247] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-08 13:51:47.530] [main] [info] ExtensionHostStarterWorker created
+[2022-03-08 13:51:52.323] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-08 13:51:52.654] [main] [info] Starting extension host with pid 4479 (fork() took 28 ms).
+[2022-03-08 13:51:52.654] [main] [info] ExtensionHostStarterWorker.start() took 32 ms.
+[2022-03-08 13:52:15.863] [main] [info] update#setState checking for updates
+[2022-03-08 13:52:15.866] [main] [info] update#setState idle
+[2022-03-08 14:52:15.867] [main] [info] update#setState checking for updates
+[2022-03-08 14:52:15.895] [main] [info] update#setState idle
+[2022-03-08 15:52:15.894] [main] [info] update#setState checking for updates
+[2022-03-08 15:52:15.970] [main] [info] update#setState idle
+[2022-03-08 16:52:15.987] [main] [info] update#setState checking for updates
+[2022-03-08 16:52:15.989] [main] [info] update#setState idle
+[2022-03-08 17:22:50.468] [main] [info] Enabling inspect port on extension host with pid 4479.
+[2022-03-08 17:22:50.545] [main] [info] Enabling inspect port on extension host with pid 4479.
+[2022-03-08 17:52:15.988] [main] [info] update#setState checking for updates
+[2022-03-08 17:52:16.009] [main] [info] update#setState idle
+[2022-03-08 18:52:16.088] [main] [info] update#setState checking for updates
+[2022-03-08 18:52:16.096] [main] [info] update#setState idle
+[2022-03-08 19:52:16.191] [main] [info] update#setState checking for updates
+[2022-03-08 19:52:16.250] [main] [info] update#setState idle
+[2022-03-08 21:49:35.005] [main] [info] update#setState checking for updates
+[2022-03-08 21:49:35.044] [main] [info] update#setState idle
+[2022-03-08 22:49:35.138] [main] [info] update#setState checking for updates
+[2022-03-08 22:49:35.141] [main] [info] update#setState idle
+[2022-03-08 23:49:35.239] [main] [info] update#setState checking for updates
+[2022-03-08 23:49:35.242] [main] [info] update#setState idle

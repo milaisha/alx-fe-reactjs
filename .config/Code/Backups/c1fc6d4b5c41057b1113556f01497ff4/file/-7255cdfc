@@ -1,0 +1,26 @@
+file:///home/aisha/Desktop/fashion/weather.html {"mtime":1646752201080,"ctime":1646737945365,"size":695,"etag":"38ddkimgrmd","orphaned":false,"typeId":""}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <script src=app.js></script>
+  <title>weather</title>
+  <link rel="stylesheet" href="mystyle.css"> 
+</head>
+<body>
+    <div class="location">
+        <h1 class="location-time zone">timezone</h1>
+        <canvas class="icon" width="128" height="128"></canvas>
+</div>
+<div class="temperature">
+    <div class="degree-section">
+    <h2 class="temperature-degree">28</h2>
+    <span>F</span>
+<div class="temperature-description">Its hot</div>
+</div>
+
+<script src="skycons.js"></script>
+<script src="weather.js"></script>
+    
+</body>

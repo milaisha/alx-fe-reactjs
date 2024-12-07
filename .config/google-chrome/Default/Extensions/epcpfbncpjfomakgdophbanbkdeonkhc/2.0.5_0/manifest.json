@@ -1,0 +1,45 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "src/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/aliexpress_content_script.css" ],
+      "js": [ "src/aliexpress_content_script.js" ],
+      "matches": [ "http://*.paypal.com/*", "https://*.paypal.com/*", "http://aliexpress.com/*", "http://*.aliexpress.com/*", "https://aliexpress.com/*", "https://*.aliexpress.com/*", "http://www.aliexpress.com/*", "http://*.www.aliexpress.com/*", "https://www.aliexpress.com/*", "https://*.www.aliexpress.com/*" ]
+   }, {
+      "css": [ "css/checkout_lock.css" ],
+      "js": [ "src/checkout_lock.js" ],
+      "matches": [ "http://aliexpress.com/*", "http://*.aliexpress.com/*", "https://aliexpress.com/*", "https://*.aliexpress.com/*", "http://www.aliexpress.com/*", "http://*.www.aliexpress.com/*", "https://www.aliexpress.com/*", "https://*.www.aliexpress.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "css/modalyst_content_script.css" ],
+      "js": [ "src/modalyst_content_script.js" ],
+      "matches": [ "https://modalyst.co/*" ]
+   } ],
+   "description": "Curate the best AliExpress products for dropshipping and import their product information into your Modalyst account.",
+   "differential_fingerprint": "1.de0361bdb1a1798e3b0576072f3a231b39648ceb48cd281584ab5461b2fc619d",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "256": "img/icon_256.png",
+      "32": "img/icon_32.png",
+      "48": "img/icon_48.png",
+      "512": "img/icon_512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnS3qWbfSuG3k4bRzkooNKgMZPMIB6xb2nyqPaIFvBWPrYtDgt4ZhyJHOEWw4suRvD2Tk+vid/lxhpe1wcSPTCvE9/kmmCLhK/R954FPbrBRKX/B0eL9g+zwuyBP+zjGEGl+Z0URyounVVsQlUb1d0eZfNinsFgPldSznuLRrUrQ5gbfsP0MJ93y+hrO8vPUZcil/O6CEUHOPcMUsx9pOdmNVqKwpZ3AxL5wItyRJRWgc4OY5q0kllp+UwhgBKlp/edUCSPA8TNuIlk9xIMxrwY0eFvTQNk6jyYyH/asyEaTYh8bNUFiprc96EVK1GPnG1apLrM7P9hs+959Inpd94QIDAQAB",
+   "manifest_version": 2,
+   "name": "Modalyst - AliExpress Dropshipping Partner",
+   "page_action": {
+      "default_icon": {
+         "16": "img/icon_16.png",
+         "32": "img/icon_32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Modalyst"
+   },
+   "permissions": [ "tabs", "storage", "cookies", "http://*.paypal.com/*", "https://*.paypal.com/*", "http://aliexpress.com/*", "http://*.aliexpress.com/*", "https://aliexpress.com/*", "https://*.aliexpress.com/*", "http://www.aliexpress.com/*", "http://*.www.aliexpress.com/*", "https://www.aliexpress.com/*", "https://*.www.aliexpress.com/*", "https://modalyst.co/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.5",
+   "web_accessible_resources": [ "src/modalyst_injected.js", "src/aliexpress_injected.js", "img/*", "fonts/*" ]
+}

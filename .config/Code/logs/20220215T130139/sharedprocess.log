@@ -1,0 +1,18 @@
+[2022-02-15 13:02:01.000] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2022-02-15 13:02:01.002] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211027T122514'
+[2022-02-15 13:02:20.995] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2022-02-15 13:02:20.997] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2022-02-15 13:02:30.997] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2022-02-15 15:26:47.667] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2022-02-15 15:26:51.149] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /home/aisha/.config/Code/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2022-02-15 15:26:51.232] [sharedprocess] [info] Extracted extension to /home/aisha/.vscode/extensions/.91268091-b94a-4e91-8842-e64e6565054d: xabikos.javascriptsnippets
+[2022-02-15 15:26:51.334] [sharedprocess] [info] Renamed to /home/aisha/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+[2022-02-15 15:26:51.335] [sharedprocess] [info] Extracting completed. xabikos.javascriptsnippets
+[2022-02-15 15:26:51.401] [sharedprocess] [info] Extension installed successfully: xabikos.javascriptsnippets
+[2022-02-15 15:27:46.381] [sharedprocess] [info] Uninstalling extension: xabikos.javascriptsnippets
+[2022-02-15 15:27:46.752] [sharedprocess] [info] Detected extension removed from another source xabikos.javascriptsnippets
+[2022-02-15 15:27:47.269] [sharedprocess] [info] Successfully uninstalled extension: xabikos.javascriptsnippets
+[2022-02-15 15:27:53.549] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2022-02-15 15:27:54.216] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /home/aisha/.config/Code/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2022-02-15 15:27:54.300] [sharedprocess] [info] Removed the extension from uninstalled list: xabikos.javascriptsnippets
+[2022-02-15 15:27:54.347] [sharedprocess] [info] Extension installed successfully: xabikos.javascriptsnippets

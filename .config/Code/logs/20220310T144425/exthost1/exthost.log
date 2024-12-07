@@ -1,0 +1,17 @@
+[2022-03-10 14:44:30.471] [exthost] [info] Extension host with pid 15111 started
+[2022-03-10 14:44:30.471] [exthost] [info] Skipping acquiring lock for /home/aisha/.config/Code/User/workspaceStorage/9ed2fcbcfca98fbefa51eeef9effa0df.
+[2022-03-10 14:44:30.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-10 14:44:30.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-10 14:44:31.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-10 14:44:31.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-10 14:44:31.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-10 14:44:31.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-10 14:44:31.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-10 14:44:31.523] [exthost] [info] Eager extensions activated
+[2022-03-10 14:44:31.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 14:44:31.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 14:44:31.622] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 14:44:31.689] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 14:44:32.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-10 14:47:04.232] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-10 14:47:04.308] [exthost] [info] Extension host with pid 15111 exiting with code 0

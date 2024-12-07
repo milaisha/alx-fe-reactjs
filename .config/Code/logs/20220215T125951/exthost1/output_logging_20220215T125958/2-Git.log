@@ -1,0 +1,9 @@
+[2022-02-15T10:00:02.736Z] Validating found git in: git
+[2022-02-15T10:00:03.759Z] Using git 2.25.1 from git
+[2022-02-15T10:00:03.894Z] > git rev-parse --git-dir [85ms]
+[2022-02-15T10:00:03.903Z] Open repository: /home/aisha/Desktop/fashion
+[2022-02-15T10:00:03.992Z] > git symbolic-ref --short HEAD [8ms]
+[2022-02-15T10:00:04.355Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [350ms]
+[2022-02-15T10:00:04.384Z] > git remote --verbose [4ms]
+[2022-02-15T10:00:04.385Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-02-15T10:00:04.460Z] > git config --get commit.template [58ms]

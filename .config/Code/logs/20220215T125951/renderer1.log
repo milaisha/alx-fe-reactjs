@@ -1,0 +1,4 @@
+[2022-02-15 12:59:56.025] [renderer1] [info] IExtensionHostStarter.start() took 418 ms.
+[2022-02-15 12:59:56.755] [renderer1] [error] [Extension Host] (node:27119) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-15 13:00:02.540] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.html-language-features' took 100% of 57.104ms, saved PROFILE here: 'file:///tmp/exthost-f7c2cb.cpuprofile' [{"id":"vscode.html-language-features","total":56831,"percentage":100}]

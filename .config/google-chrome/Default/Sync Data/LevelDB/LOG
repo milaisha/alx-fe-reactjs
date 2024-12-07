@@ -1,0 +1,6 @@
+2022/03/10-14:19:50.194 3686 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/03/10-14:19:50.195 3686 Recovering log #14
+2022/03/10-14:19:51.171 3686 Reusing old log /home/aisha/.config/google-chrome/Default/Sync Data/LevelDB/000014.log 
+2022/03/10-14:39:58.850 394b Level-0 table #19: started
+2022/03/10-14:39:58.911 394b Level-0 table #19: 112704 bytes OK
+2022/03/10-14:39:58.950 394b Delete type=0 #14

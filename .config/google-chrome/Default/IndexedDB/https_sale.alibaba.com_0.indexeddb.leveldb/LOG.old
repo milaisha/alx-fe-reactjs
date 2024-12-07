@@ -1,0 +1,7 @@
+2022/03/10-12:37:30.878 1be9 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_sale.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/10-12:37:30.879 1be9 Recovering log #3
+2022/03/10-12:37:30.956 1be9 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_sale.alibaba.com_0.indexeddb.leveldb/000003.log 
+2022/03/10-12:39:23.182 2647 Level-0 table #5: started
+2022/03/10-12:39:23.270 2647 Level-0 table #5: 164672 bytes OK
+2022/03/10-12:39:23.400 2647 Delete type=0 #3
+2022/03/10-12:39:23.432 2647 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

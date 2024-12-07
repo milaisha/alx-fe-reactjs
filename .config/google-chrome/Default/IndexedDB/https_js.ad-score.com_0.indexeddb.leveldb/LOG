@@ -1,0 +1,25 @@
+2021/11/24-16:42:48.807 6a8 Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/24-16:42:48.807 6a8 Recovering log #12
+2021/11/24-16:42:48.823 6a8 Reusing old log /home/aisha/.config/google-chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/000012.log 
+2021/11/24-16:42:48.823 6a8 Delete type=2 #11
+2021/11/24-16:42:49.251 708 Level-0 table #17: started
+2021/11/24-16:42:49.395 708 Level-0 table #17: 1026 bytes OK
+2021/11/24-16:42:49.562 708 Delete type=0 #12
+2021/11/24-16:42:49.563 708 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 186 : 1
+2021/11/24-16:42:49.563 708 Compacting 1@0 + 1@1 files
+2021/11/24-16:42:49.596 708 Generated table #18@0: 23 keys, 546 bytes
+2021/11/24-16:42:49.596 708 Compacted 1@0 + 1@1 files => 546 bytes
+2021/11/24-16:42:49.673 708 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/24-16:42:49.673 708 Delete type=2 #17
+2021/11/24-16:42:49.674 708 Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 186 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/24-16:42:57.915 6f5 Level-0 table #20: started
+2021/11/24-16:42:57.961 6f5 Level-0 table #20: 516 bytes OK
+2021/11/24-16:42:58.042 6f5 Delete type=0 #16
+2021/11/24-16:42:58.042 6f5 Delete type=2 #14
+2021/11/24-16:42:58.043 6f5 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 235 : 1
+2021/11/24-16:42:58.043 6f5 Compacting 1@0 + 1@1 files
+2021/11/24-16:42:58.158 6f5 Generated table #21@0: 23 keys, 545 bytes
+2021/11/24-16:42:58.158 6f5 Compacted 1@0 + 1@1 files => 545 bytes
+2021/11/24-16:42:58.208 6f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/24-16:42:58.208 6f5 Delete type=2 #20
+2021/11/24-16:42:58.208 6f5 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 235 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

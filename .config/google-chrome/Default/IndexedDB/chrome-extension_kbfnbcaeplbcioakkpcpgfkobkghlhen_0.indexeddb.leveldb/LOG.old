@@ -1,0 +1,6 @@
+2022/03/10-09:20:11.654 7ee Creating DB /home/aisha/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb since it was missing.
+2022/03/10-09:20:11.895 7ee Reusing MANIFEST /home/aisha/.config/google-chrome/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/10-14:19:28.978 32d7 Level-0 table #5: started
+2022/03/10-14:19:29.121 32d7 Level-0 table #5: 226912 bytes OK
+2022/03/10-14:19:29.223 32d7 Delete type=0 #3
+2022/03/10-14:19:29.223 32d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
